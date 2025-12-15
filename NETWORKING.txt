@@ -1,0 +1,64 @@
+NETWORKING — CHAPTER 1: INTRODUCTION TO NETWORKING
+# 1️⃣ What is Networking?
+
+Networking is connecting computers to share data.
+
+Types:
+
+LAN (Local Area Network)
+
+WAN (Wide Area Network)
+
+MAN (Metropolitan Area Network)
+
+2️⃣ Why Networking?
+
+Resource sharing (printers, files)
+
+Communication (emails, chat)
+
+Internet access
+
+3️⃣ OSI Model
+
+7 layers:
+
+Application — Interface for programs
+
+Presentation — Formats data
+
+Session — Manages connections
+
+Transport — TCP/UDP
+
+Network — IP addressing, routing
+
+Data Link — MAC addresses, frames
+
+Physical — Cables, signals
+
+Example:
+
+Sending an email goes from Application → Physical layers
+
+4️⃣ TCP/IP Model
+
+4 layers (simpler):
+
+Application
+
+Transport
+
+Internet
+
+Network Access
+
+5️⃣ Networking Devices
+
+Router
+
+Switch
+
+Hub
+
+Firewall
